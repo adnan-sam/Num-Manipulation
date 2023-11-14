@@ -20,15 +20,15 @@ Welcome to my Redux-powered React Counter App, named "Num Manipulation"! This pr
 
 2. Navigate to the project directory.
 
-```cd num_manipulation```
+&nbsp; &nbsp; ```cd num_manipulation```
 
 3. Install dependencies.
 
-```npm install```
+&nbsp; &nbsp; ```npm install```
 
 4. Run the app.
 
-```npm start```
+&nbsp; &nbsp; ```npm start```
 
 5. Open your browser and visit ```http://localhost:3000``` to see the app in action.
 
@@ -36,7 +36,7 @@ Welcome to my Redux-powered React Counter App, named "Num Manipulation"! This pr
 This project was intentionally built using Redux for state management, even though React hooks could have been a simpler alternative. The goal was to deepen the understanding of Redux and its capabilities for handling complex application states.
 
 ## Acknowledgments
-Special thanks to Vinod Thappa! 🙌 His Redux Tutorial (https://www.youtube.com/watch?v=1oU_YGhT7ck) was instrumental in grasping the concepts behind Redux.
+Special thanks to Vinod Thappa! 🙌 His Redux Tutorial https://www.youtube.com/watch?v=1oU_YGhT7ck was instrumental in grasping the concepts behind Redux.
 
 ## Connect with Me
 Feel free to connect with me on LinkedIn or check out my other projects on GitHub.
