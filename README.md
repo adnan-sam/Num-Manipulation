@@ -16,7 +16,7 @@ Welcome to my Redux-powered React Counter App, named "Num Manipulation"! This pr
 
 1. Clone this repository to your local machine.
 
-&nbsp; ```git clone https://github.com/your-username/num-manipulation.git```
+&nbsp; &nbsp; ```git clone https://github.com/your-username/num-manipulation.git```
 
 2. Navigate to the project directory.
 
